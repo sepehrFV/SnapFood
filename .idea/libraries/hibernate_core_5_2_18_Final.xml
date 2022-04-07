@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hibernate-core-5.2.18.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Local Repository/hibernate-core-5.2.18.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Local Repository/jpa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Local Repository/postgresql-42.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
