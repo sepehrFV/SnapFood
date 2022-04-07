@@ -41,16 +41,16 @@
         
         
 		<!-- mapping classes -->       
-       <mapping class="ir.mapsa.snapfood.entity.Basket"/>
-       <mapping class="ir.mapsa.snapfood.entity.Food"/>
-       <mapping class="ir.mapsa.snapfood.entity.Person"/>
-       <mapping class="ir.mapsa.snapfood.entity.User"/>
-       <mapping class="ir.mapsa.snapfood.entity.Restaurant"/>
-       <mapping class="ir.mapsa.snapfood.entity.BasketFood"/>
-       <mapping class="ir.mapsa.snapfood.entity.DeliveryMan"/>
-       <mapping class="ir.mapsa.snapfood.entity.Order"/>
-       <mapping class="ir.mapsa.snapfood.entity.Serve"/>
-       <mapping class="ir.mapsa.snapfood.entity.Receipt"/>
+       <mapping class="com.myexple.snapfood.entity.Basket"/>
+       <mapping class="com.myexple.snapfood.entity.Food"/>
+       <mapping class="com.myexple.snapfood.entity.Person"/>
+       <mapping class="com.myexple.snapfood.entity.User"/>
+       <mapping class="com.myexple.snapfood.entity.Restaurant"/>
+       <mapping class="com.myexple.snapfood.entity.BasketFood"/>
+       <mapping class="com.myexple.snapfood.entity.DeliveryMan"/>
+       <mapping class="com.myexple.snapfood.entity.Order"/>
+       <mapping class="com.myexple.snapfood.entity.Serve"/>
+       <mapping class="com.myexple.snapfood.entity.Receipt"/>
 
        
      
